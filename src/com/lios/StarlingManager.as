@@ -22,6 +22,7 @@ package com.lios
 	
 	import starling.core.Starling;
 	import starling.events.Event;
+	// get the fullscreen extension from https://github.com/Brinkbit/StarlingFullScreenExtension
 	import starling.extensions.brinkbit.fullscreenscreenextension.FullScreenExtension;
 
 	/**
