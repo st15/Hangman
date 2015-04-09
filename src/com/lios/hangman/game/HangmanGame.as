@@ -86,11 +86,6 @@ package com.lios.hangman.game
 			FullScreenExtension.stage.addChildAt(rootView, 0);
 			
 			controller.showStartMenu();
-			
-			// debug test
-//			RatingsAlert.show();
-//			SettingsPanelScreen.show();
-//			LoadingPopup.show();
 		}
 		
 		public function pause():void
