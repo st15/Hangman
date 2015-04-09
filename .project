@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Hangman</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformasnature</nature>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformnature</nature>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] FullScreenExtension</name>
+			<type>2</type>
+			<location>C:/Development/flash-projects/Hangman/libs/FullScreenExtension</location>
+		</link>
+		<link>
+			<name>[source path] source</name>
+			<type>2</type>
+			<location>C:/Development/flash-projects/Hangman/libs/feathers-2.1.0/source</location>
+		</link>
+		<link>
+			<name>[source path] src</name>
+			<type>2</type>
+			<location>C:/Development/flash-projects/Hangman/libs/Gamua-Starling-Framework-v1.6-0-gc414de1/Gamua-Starling-Framework-c414de1/starling/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
